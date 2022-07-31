@@ -1,0 +1,27 @@
+*{
+    margin: 20px;
+    background-color: black;
+    color: white;
+}
+
+h2{
+    position: relative;
+    margin-top: 200px;
+    margin-left: 30%;    
+    font-size: 50px;
+    background-color: red;
+    height: auto;
+    width: 400px;
+    border: 3px solid green;   
+    border-radius: 8px;
+    text-align: center;
+
+}
+h4{
+    position: relative;
+    color: green;
+    font-size: 38px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 60px;
+}
